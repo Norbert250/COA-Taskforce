@@ -18,7 +18,7 @@ function SubarrayWithSum(arr, target) {
     return false;
 }
 
-// Example usage:
+// Examples:
 const arr = [4, 2, 7, 1, 9, 5];
 const target = 17;
 console.log(SubarrayWithSum(arr, target));  // Output: true
