@@ -16,7 +16,7 @@ function transformString(str) {
     return str;
 }
 
-// Example usage:
+// Examples:
 console.log(transformString("Hamburger"));  // Output: "regrubmaH"
 console.log(transformString("Pizza"));      // Output: "80 105 122 122 97"
 console.log(transformString("Chocolate Chip Cookie"));  // Output: "eikooCpihCetalocohC"
